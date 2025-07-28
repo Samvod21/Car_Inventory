@@ -8,3 +8,4 @@ C:\Users\user\Desktop\Project\Car_Inventory\Project\Project\obj\Debug\Project.cs
 C:\Users\user\Desktop\Project\Car_Inventory\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Project\Car_Inventory\Project\Project\obj\Debug\Project.exe
 C:\Users\user\Desktop\Project\Car_Inventory\Project\Project\obj\Debug\Project.pdb
+C:\Users\user\Desktop\Project\Car_Inventory\Project\Project\obj\Debug\Project.exe.config
