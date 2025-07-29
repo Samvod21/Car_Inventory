@@ -15,6 +15,7 @@ namespace Project
         public HomePage()
         {
             InitializeComponent();
+            this.Icon = new Icon("Homepage.ico");
         }
     }
 }
